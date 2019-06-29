@@ -1,0 +1,7 @@
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\obj\Debug\ManyMethods.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\obj\Debug\ManyMethods.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\bin\Debug\ManyMethods.exe.config
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\bin\Debug\ManyMethods.exe
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\bin\Debug\ManyMethods.pdb
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\obj\Debug\ManyMethods.exe
+C:\Users\Marlyssa B\Desktop\C# Programs\ManyMethods\obj\Debug\ManyMethods.pdb
