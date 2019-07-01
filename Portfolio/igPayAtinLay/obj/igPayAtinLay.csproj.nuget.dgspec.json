@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marlyssa B\\source\\repos\\igPayAtinLay\\igPayAtinLay.csproj": {}
+    "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\igPayAtinLay\\igPayAtinLay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marlyssa B\\source\\repos\\igPayAtinLay\\igPayAtinLay.csproj": {
+    "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\igPayAtinLay\\igPayAtinLay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marlyssa B\\source\\repos\\igPayAtinLay\\igPayAtinLay.csproj",
+        "projectUniqueName": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\igPayAtinLay\\igPayAtinLay.csproj",
         "projectName": "igPayAtinLay",
-        "projectPath": "C:\\Users\\Marlyssa B\\source\\repos\\igPayAtinLay\\igPayAtinLay.csproj",
+        "projectPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\igPayAtinLay\\igPayAtinLay.csproj",
         "packagesPath": "C:\\Users\\Marlyssa B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marlyssa B\\source\\repos\\igPayAtinLay\\obj\\",
+        "outputPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\igPayAtinLay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
