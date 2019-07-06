@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marlyssa B\\source\\repos\\RockPaperScisssors2\\RockPaperScisssors2.csproj": {}
+    "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\RockPaperScisssors2\\RockPaperScisssors2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marlyssa B\\source\\repos\\RockPaperScisssors2\\RockPaperScisssors2.csproj": {
+    "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\RockPaperScisssors2\\RockPaperScisssors2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marlyssa B\\source\\repos\\RockPaperScisssors2\\RockPaperScisssors2.csproj",
+        "projectUniqueName": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\RockPaperScisssors2\\RockPaperScisssors2.csproj",
         "projectName": "RockPaperScisssors2",
-        "projectPath": "C:\\Users\\Marlyssa B\\source\\repos\\RockPaperScisssors2\\RockPaperScisssors2.csproj",
+        "projectPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\RockPaperScisssors2\\RockPaperScisssors2.csproj",
         "packagesPath": "C:\\Users\\Marlyssa B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marlyssa B\\source\\repos\\RockPaperScisssors2\\obj\\",
+        "outputPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\RockPaperScisssors2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
