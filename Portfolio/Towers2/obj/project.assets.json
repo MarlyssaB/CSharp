@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\TicTacToe\\TicTacToe.csproj",
-      "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\Towers2\\Towers2.csproj",
+      "projectName": "Towers2",
+      "projectPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\Towers2\\Towers2.csproj",
       "packagesPath": "C:\\Users\\Marlyssa B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\Marlyssa B\\Documents\\DevFolder\\LCA_CS201_Marlyssa_Boucher\\CSharp\\Portfolio\\Towers2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
