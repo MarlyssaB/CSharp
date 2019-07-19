@@ -69,7 +69,7 @@ public class Program
 
     public static void MovePiece(string start, string finish)
     {
-        List<int> startPeg = pegs[start]; // contains all the blocks in the stack e.g. for stack "a" the blocks are 4, 3, 2, 1
+        List<int> startPeg = pegs[start]; 
         List<int> endPeg= pegs[finish];
 
         int movingDisk = startPeg[startPeg.Count - 1]; // gets the block that we will move
@@ -80,7 +80,7 @@ public class Program
 
     public static bool IsValid(string start, string finish)
     {
-        // Checks if the ending peg is empty. If it is, any disk can be moved her and it will not check the disks. 
+        // Checks if the ending peg is empty. If it is, any disk can be moved here and it will not check the disks. 
         if (pegs[finish].Count == 0)
         {
             return true;
@@ -115,7 +115,7 @@ public class Program
     public static void DrawPegs()
     {// does what it says on the tin. Draws out the pegs and current disk positions for the player
 
-        string[] letters = new string[] { "a", "b", "c" };
+        string[] letters = new string[] { "a", "b", "c" }; 
         for (var i = 0; i < letters.Length; i++)
         {
             List<string> disks = new List<string>();
