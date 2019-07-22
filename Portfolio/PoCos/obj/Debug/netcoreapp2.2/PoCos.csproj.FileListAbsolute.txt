@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\source\repos\PoCos\bin\Debug\netcoreapp2.2\PoCos.deps.json
+C:\Users\Marlyssa B\source\repos\PoCos\bin\Debug\netcoreapp2.2\PoCos.runtimeconfig.json
+C:\Users\Marlyssa B\source\repos\PoCos\bin\Debug\netcoreapp2.2\PoCos.runtimeconfig.dev.json
+C:\Users\Marlyssa B\source\repos\PoCos\bin\Debug\netcoreapp2.2\PoCos.dll
+C:\Users\Marlyssa B\source\repos\PoCos\bin\Debug\netcoreapp2.2\PoCos.pdb
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.AssemblyInfo.cs
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.dll
+C:\Users\Marlyssa B\source\repos\PoCos\obj\Debug\netcoreapp2.2\PoCos.pdb
