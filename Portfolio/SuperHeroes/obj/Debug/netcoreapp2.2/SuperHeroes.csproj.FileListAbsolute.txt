@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\bin\Debug\netcoreapp2.2\SuperHeroes.deps.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\bin\Debug\netcoreapp2.2\SuperHeroes.runtimeconfig.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\bin\Debug\netcoreapp2.2\SuperHeroes.runtimeconfig.dev.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\bin\Debug\netcoreapp2.2\SuperHeroes.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\bin\Debug\netcoreapp2.2\SuperHeroes.pdb
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.AssemblyInfo.cs
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\SuperHeroes\obj\Debug\netcoreapp2.2\SuperHeroes.pdb
