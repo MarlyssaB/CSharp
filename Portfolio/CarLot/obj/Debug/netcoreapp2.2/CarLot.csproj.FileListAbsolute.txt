@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\bin\Debug\netcoreapp2.2\CarLot.deps.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\bin\Debug\netcoreapp2.2\CarLot.runtimeconfig.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\bin\Debug\netcoreapp2.2\CarLot.runtimeconfig.dev.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\bin\Debug\netcoreapp2.2\CarLot.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\bin\Debug\netcoreapp2.2\CarLot.pdb
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.AssemblyInfo.cs
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\CarLot\obj\Debug\netcoreapp2.2\CarLot.pdb
