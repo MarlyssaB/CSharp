@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\bin\Debug\netcoreapp2.2\IRentables.deps.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\bin\Debug\netcoreapp2.2\IRentables.runtimeconfig.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\bin\Debug\netcoreapp2.2\IRentables.runtimeconfig.dev.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\bin\Debug\netcoreapp2.2\IRentables.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\bin\Debug\netcoreapp2.2\IRentables.pdb
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.AssemblyInfo.cs
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\IRentables\obj\Debug\netcoreapp2.2\IRentables.pdb
