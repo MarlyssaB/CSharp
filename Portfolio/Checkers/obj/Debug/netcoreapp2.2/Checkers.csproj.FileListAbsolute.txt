@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.AssemblyInfo.cs
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\bin\Debug\netcoreapp2.2\Checkers.deps.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\bin\Debug\netcoreapp2.2\Checkers.runtimeconfig.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\bin\Debug\netcoreapp2.2\Checkers.runtimeconfig.dev.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\bin\Debug\netcoreapp2.2\Checkers.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\bin\Debug\netcoreapp2.2\Checkers.pdb
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\Checkers\obj\Debug\netcoreapp2.2\Checkers.pdb
