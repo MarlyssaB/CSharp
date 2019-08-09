@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\bin\Debug\netcoreapp2.2\BookInventory.deps.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\bin\Debug\netcoreapp2.2\BookInventory.runtimeconfig.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\bin\Debug\netcoreapp2.2\BookInventory.runtimeconfig.dev.json
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\bin\Debug\netcoreapp2.2\BookInventory.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\bin\Debug\netcoreapp2.2\BookInventory.pdb
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.AssemblyInfo.cs
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.dll
+C:\Users\Marlyssa B\Documents\DevFolder\LCA_CS201_Marlyssa_Boucher\CSharp\Portfolio\BookInventory\obj\Debug\netcoreapp2.2\BookInventory.pdb
