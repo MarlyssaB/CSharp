@@ -127,7 +127,7 @@ namespace Checkers
             DrawBoard();
             while (!CheckForWin())
             {
-				ProcessInput(); //keeps game going if no win is detected
+				PlayerInput(); //keeps game going if no win is detected
             }
             Console.WriteLine("You won!");
             Console.WriteLine("Press any key to exit.");
@@ -201,7 +201,7 @@ namespace Checkers
                 {
                     if (c.Team == player.Team)
                     {
-                        return false;
+                        return false; //keeps player from jumping themselves
                     }
                     else
                     {
@@ -230,52 +230,44 @@ namespace Checkers
 
         }
 
-        public void ProcessInput()
+        public void PlayerInput()
         {
-            ///NOTE: If you want to, you can try to validate the source position
-            ///right after the user enters the data by checking if there is a checker
-            ///at the given position
             Console.WriteLine("Select a checker to move (Row, Column):");
-            string[] src = Console.ReadLine().Split(','); // I skipped user input validation here
+            string[] start = Console.ReadLine().Split(','); 
             Console.WriteLine("Select a square to move to (Row, Column):");
-            string[] dest = Console.ReadLine().Split(','); // I skipped user input validation here
+            string[] end = Console.ReadLine().Split(','); 
 
-            // usually we need to check if src.Count==2 before we retrieve data src[0] and src[1]
-            // you can add the check if you want to. Likewise, we usually check dest.Count==2 as well
-            Position from = new Position(int.Parse(src[0]), int.Parse(src[1]));
-            Position to = new Position(int.Parse(dest[0]), int.Parse(dest[1]));
+           
+            Position from = new Position(int.Parse(start[0]), int.Parse(start[1]));
+            Position to = new Position(int.Parse(end[0]), int.Parse(end[1])); 
 
-            ///TODO: Now you have all building blocks, it is your turn to put them together
-            ///
-            //1. Get the checker at the source position:
-            // hint: use GetChecker function
-			Checker srcChecker = board.GetChecker(from);
+
+            //get checker from the starting position
+			Checker startChecker = board.GetChecker(from);
 			
 			
-            //2. If there is no checker at the source position
-            // notify the user of the error, then stop
-			if(srcChecker == null)
+            //returns an error if the starting space is empty
+			if(startChecker == null)
 			{
-				Console.WriteLine("Invalid source position, try again.");
+				Console.WriteLine("Empty start position. Please try again");
 			}
-			 //3. If there is a checker at the source position
-            // then check if the move from the source position to the destination position
-            // is a legal move
+			 
+            //if there is a checker in the starting position, checks that the move is legasl
 			else
 			{
-				if(IsLegalMove(srcChecker.Team, from, to))
+				if(IsLegalMove(startChecker.Team, from, to))
 				{
 					if(IsCapture(from, to))
 					   {
 						   Checker jumpChecker = this.GetCaptureChecker(from, to);
 						   board.RemoveChecker(jumpChecker);
-						   board.MoveChecker(srcChecker, to);
+						   board.MoveChecker(startChecker, to);
 					   }
-				board.MoveChecker(srcChecker, to);
+				board.MoveChecker(startChecker, to);
 				}
 				else
 				{
-				Console.WriteLine("Invalid move. Checkthe source and destination.");
+				Console.WriteLine("Invalid move. Check your starting and ending positions and try again.");
 				}
 			}
             Console.Clear();
