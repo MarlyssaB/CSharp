@@ -1,0 +1,11 @@
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\bin\Debug\netcoreapp2.2\CheckPoint2SQL.deps.json
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\bin\Debug\netcoreapp2.2\CheckPoint2SQL.runtimeconfig.json
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\bin\Debug\netcoreapp2.2\CheckPoint2SQL.runtimeconfig.dev.json
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\bin\Debug\netcoreapp2.2\CheckPoint2SQL.dll
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.csprojAssemblyReference.cache
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.csproj.CoreCompileInputs.cache
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.AssemblyInfoInputs.cache
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.AssemblyInfo.cs
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\bin\Debug\netcoreapp2.2\CheckPoint2SQL.pdb
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.dll
+C:\Users\Marlyssa B\source\repos\CheckPoint2SQL\obj\Debug\netcoreapp2.2\CheckPoint2SQL.pdb
